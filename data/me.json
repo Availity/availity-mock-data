@@ -1,0 +1,17 @@
+{
+  "links": {
+    "regions": {
+      "href": "http://localhost:3000/api/sdk/platform/v1/regions?userId=akarobjones"
+    },
+    "organizations": {
+      "href": "http://localhost:3000/api/sdk/platform/v1/organizations?userId=akarobjones"
+    },
+    "self": {
+      "href": "http://localhost:3000/api/sdk/platform/v1/users/akarobjones"
+    }
+  },
+  "id": "akarobjones",
+  "lastName": "Jones",
+  "firstName": "Rob",
+  "email": "rob.jones@example.com"
+}

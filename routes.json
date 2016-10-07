@@ -1,0 +1,48 @@
+{
+
+  "v1/log-messages": {
+    "file": "empty.json"
+  },
+
+  "sdk/platform/v1/users/me": {
+    "file": "me.json"
+  },
+
+  "sdk/platform/v1/users/akarobjones": {
+    "file": "me.json"
+  },
+
+  "sdk/platform/v1/permissions": {
+    "get": [
+      {
+        "file": "permissions.json",
+        "params": {
+          "userId": "akarobjones"
+        }
+      }
+    ]
+  },
+
+  "sdk/platform/v1/organizations": {
+    "get": [
+      {
+        "file": "organizations.json",
+        "params": {
+          "userId": "akarobjones"
+        }
+      }
+    ]
+  },
+
+  "sdk/platform/v1/regions": {
+    "get": [
+      {
+        "file": "regions.json",
+        "params": {
+          "userId": "akarobjones"
+        }
+      }
+    ]
+  }
+
+}
