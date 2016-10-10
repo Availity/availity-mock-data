@@ -5,23 +5,23 @@
   "limit": 50,
   "links": {
     "self": {
-      "href": "https://localhost:3000/api/sdk/platform/v1/organizations?customerId=9999"
+      "href": "${context}/sdk/platform/v1/organizations?customerId=9999"
     }
   },
   "organizations": [
     {
       "links": {
         "self": {
-          "href": "https://localhost:3000/api/sdk/platform/v1/organizations/1111"
+          "href": "${context}/sdk/platform/v1/organizations/1111"
         },
         "admin": {
-          "href": "https://localhost:3000/api/sdk/platform/v1/users/akarobjones"
+          "href": "${context}/sdk/platform/v1/users/akarobjones"
         },
         "businessArrangements": {
-          "href": "https://localhost:3000/api/sdk/platform/v1/business-arrangements?organizationId=1111"
+          "href": "${context}/sdk/platform/v1/business-arrangements?organizationId=1111"
         },
         "users": {
-          "href": "https://localhost:3000/api/sdk/platform/v1/users?organizationId=1111"
+          "href": "${context}/sdk/platform/v1/users?organizationId=1111"
         }
       },
       "id": "1111",

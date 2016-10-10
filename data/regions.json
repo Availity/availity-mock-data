@@ -5,23 +5,23 @@
   "limit": 50,
   "links": {
     "next": {
-      "href": "http://localhost:3000/api/sdk/platform/v1/regions?userId=akarobjones&offset=50&limit=50"
+      "href": "${context}/sdk/platform/v1/regions?userId=akarobjones&offset=50&limit=50"
     },
     "last": {
-      "href": "http://localhost:3000/api/sdk/platform/v1/regions?userId=akarobjones&offset=50&limit=50"
+      "href": "${context}/sdk/platform/v1/regions?userId=akarobjones&offset=50&limit=50"
     },
     "self": {
-      "href": "http://localhost:3000/api/sdk/platform/v1/regions?userId=akarobjones"
+      "href": "${context}/sdk/platform/v1/regions?userId=akarobjones"
     },
     "user": {
-      "href": "http://localhost:3000/api/sdk/platform/v1/users/akarobjones"
+      "href": "${context}/sdk/platform/v1/users/akarobjones"
     }
   },
   "regions": [
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/AL"
+          "href": "${context}/sdk/platform/v1/regions/AL"
         }
       },
       "id": "AL",
@@ -30,7 +30,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/AK"
+          "href": "${context}/sdk/platform/v1/regions/AK"
         }
       },
       "id": "AK",
@@ -39,7 +39,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/AS"
+          "href": "${context}/sdk/platform/v1/regions/AS"
         }
       },
       "id": "AS",
@@ -48,7 +48,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/AZ"
+          "href": "${context}/sdk/platform/v1/regions/AZ"
         }
       },
       "id": "AZ",
@@ -57,7 +57,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/AR"
+          "href": "${context}/sdk/platform/v1/regions/AR"
         }
       },
       "id": "AR",
@@ -66,7 +66,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/CA"
+          "href": "${context}/sdk/platform/v1/regions/CA"
         }
       },
       "id": "CA",
@@ -75,7 +75,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/CO"
+          "href": "${context}/sdk/platform/v1/regions/CO"
         }
       },
       "id": "CO",
@@ -84,7 +84,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/CT"
+          "href": "${context}/sdk/platform/v1/regions/CT"
         }
       },
       "id": "CT",
@@ -93,7 +93,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/DE"
+          "href": "${context}/sdk/platform/v1/regions/DE"
         }
       },
       "id": "DE",
@@ -102,7 +102,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/DC"
+          "href": "${context}/sdk/platform/v1/regions/DC"
         }
       },
       "id": "DC",
@@ -111,7 +111,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/FL"
+          "href": "${context}/sdk/platform/v1/regions/FL"
         }
       },
       "id": "FL",
@@ -121,7 +121,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/GA"
+          "href": "${context}/sdk/platform/v1/regions/GA"
         }
       },
       "id": "GA",
@@ -130,7 +130,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/GU"
+          "href": "${context}/sdk/platform/v1/regions/GU"
         }
       },
       "id": "GU",
@@ -139,7 +139,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/HI"
+          "href": "${context}/sdk/platform/v1/regions/HI"
         }
       },
       "id": "HI",
@@ -148,7 +148,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/ID"
+          "href": "${context}/sdk/platform/v1/regions/ID"
         }
       },
       "id": "ID",
@@ -157,7 +157,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/IL"
+          "href": "${context}/sdk/platform/v1/regions/IL"
         }
       },
       "id": "IL",
@@ -166,7 +166,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/IN"
+          "href": "${context}/sdk/platform/v1/regions/IN"
         }
       },
       "id": "IN",
@@ -175,7 +175,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/IA"
+          "href": "${context}/sdk/platform/v1/regions/IA"
         }
       },
       "id": "IA",
@@ -184,7 +184,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/KS"
+          "href": "${context}/sdk/platform/v1/regions/KS"
         }
       },
       "id": "KS",
@@ -193,7 +193,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/KY"
+          "href": "${context}/sdk/platform/v1/regions/KY"
         }
       },
       "id": "KY",
@@ -202,7 +202,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/LA"
+          "href": "${context}/sdk/platform/v1/regions/LA"
         }
       },
       "id": "LA",
@@ -211,7 +211,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/ME"
+          "href": "${context}/sdk/platform/v1/regions/ME"
         }
       },
       "id": "ME",
@@ -220,7 +220,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/MD"
+          "href": "${context}/sdk/platform/v1/regions/MD"
         }
       },
       "id": "MD",
@@ -229,7 +229,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/MA"
+          "href": "${context}/sdk/platform/v1/regions/MA"
         }
       },
       "id": "MA",
@@ -238,7 +238,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/MI"
+          "href": "${context}/sdk/platform/v1/regions/MI"
         }
       },
       "id": "MI",
@@ -247,7 +247,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/MN"
+          "href": "${context}/sdk/platform/v1/regions/MN"
         }
       },
       "id": "MN",
@@ -256,7 +256,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/MS"
+          "href": "${context}/sdk/platform/v1/regions/MS"
         }
       },
       "id": "MS",
@@ -265,7 +265,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/MO"
+          "href": "${context}/sdk/platform/v1/regions/MO"
         }
       },
       "id": "MO",
@@ -274,7 +274,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/MT"
+          "href": "${context}/sdk/platform/v1/regions/MT"
         }
       },
       "id": "MT",
@@ -283,7 +283,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/NE"
+          "href": "${context}/sdk/platform/v1/regions/NE"
         }
       },
       "id": "NE",
@@ -292,7 +292,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/NV"
+          "href": "${context}/sdk/platform/v1/regions/NV"
         }
       },
       "id": "NV",
@@ -301,7 +301,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/NH"
+          "href": "${context}/sdk/platform/v1/regions/NH"
         }
       },
       "id": "NH",
@@ -310,7 +310,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/NJ"
+          "href": "${context}/sdk/platform/v1/regions/NJ"
         }
       },
       "id": "NJ",
@@ -319,7 +319,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/NM"
+          "href": "${context}/sdk/platform/v1/regions/NM"
         }
       },
       "id": "NM",
@@ -328,7 +328,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/NY"
+          "href": "${context}/sdk/platform/v1/regions/NY"
         }
       },
       "id": "NY",
@@ -337,7 +337,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/NC"
+          "href": "${context}/sdk/platform/v1/regions/NC"
         }
       },
       "id": "NC",
@@ -346,7 +346,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/ND"
+          "href": "${context}/sdk/platform/v1/regions/ND"
         }
       },
       "id": "ND",
@@ -355,7 +355,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/MP"
+          "href": "${context}/sdk/platform/v1/regions/MP"
         }
       },
       "id": "MP",
@@ -364,7 +364,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/OH"
+          "href": "${context}/sdk/platform/v1/regions/OH"
         }
       },
       "id": "OH",
@@ -373,7 +373,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/OK"
+          "href": "${context}/sdk/platform/v1/regions/OK"
         }
       },
       "id": "OK",
@@ -382,7 +382,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/OR"
+          "href": "${context}/sdk/platform/v1/regions/OR"
         }
       },
       "id": "OR",
@@ -391,7 +391,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/PA"
+          "href": "${context}/sdk/platform/v1/regions/PA"
         }
       },
       "id": "PA",
@@ -400,7 +400,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/PR"
+          "href": "${context}/sdk/platform/v1/regions/PR"
         }
       },
       "id": "PR",
@@ -409,7 +409,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/RI"
+          "href": "${context}/sdk/platform/v1/regions/RI"
         }
       },
       "id": "RI",
@@ -418,7 +418,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/SC"
+          "href": "${context}/sdk/platform/v1/regions/SC"
         }
       },
       "id": "SC",
@@ -427,7 +427,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/SD"
+          "href": "${context}/sdk/platform/v1/regions/SD"
         }
       },
       "id": "SD",
@@ -436,7 +436,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/TN"
+          "href": "${context}/sdk/platform/v1/regions/TN"
         }
       },
       "id": "TN",
@@ -445,7 +445,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/TX"
+          "href": "${context}/sdk/platform/v1/regions/TX"
         }
       },
       "id": "TX",
@@ -454,7 +454,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/UT"
+          "href": "${context}/sdk/platform/v1/regions/UT"
         }
       },
       "id": "UT",
@@ -463,7 +463,7 @@
     {
       "links": {
         "self": {
-          "href": "http://localhost:3000/api/sdk/platform/v1/regions/VT"
+          "href": "${context}/sdk/platform/v1/regions/VT"
         }
       },
       "id": "VT",

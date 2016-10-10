@@ -1,13 +1,13 @@
 {
   "links": {
     "regions": {
-      "href": "http://localhost:3000/api/sdk/platform/v1/regions?userId=aka555555555"
+      "href": "${context}/sdk/platform/v1/regions?userId=aka555555555"
     },
     "organizations": {
-      "href": "http://localhost:3000/api/sdk/platform/v1/organizations?userId=aka555555555"
+      "href": "${context}/sdk/platform/v1/organizations?userId=aka555555555"
     },
     "self": {
-      "href": "http://localhost:3000/api/sdk/platform/v1/users/aka555555555"
+      "href": "${context}/sdk/platform/v1/users/aka555555555"
     }
   },
   "id": "aka555555555",
