@@ -20,7 +20,8 @@ A fake user by the name of Jane Smith is used through the mocks with the followi
 
 - `/v1/log-messages`
 - `/sdk/platform/v1/users/me`
-- `/sdk/platform/v1/users/{userId}`
+- `/sdk/platform/v1/users/aka123456789` (Jane Smith)
+- `/sdk/platform/v1/users/aka987654321` (Abraham Lincoln)
 - `/sdk/platform/v1/organizations`
 - `/sdk/platform/v1/permissions`
 - `/sdk/platform/v1/regions`
