@@ -15,7 +15,7 @@
           "href": "${context}/sdk/platform/v1/organizations/1111"
         },
         "admin": {
-          "href": "${context}/sdk/platform/v1/users/akarobjones"
+          "href": "${context}/sdk/platform/v1/users/aka987654321"
         },
         "businessArrangements": {
           "href": "${context}/sdk/platform/v1/business-arrangements?organizationId=1111"

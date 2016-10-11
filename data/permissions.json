@@ -5,20 +5,20 @@
   "limit": 50,
   "links": {
     "next": {
-      "href": "${context}/api/sdk/platform/v1/permissions?userId=akarobjones&offset=50&limit=50"
+      "href": "${context}/api/sdk/platform/v1/permissions?userId=aka123456789&offset=50&limit=50"
     },
     "last": {
-      "href": "${context}/api/sdk/platform/v1/permissions?userId=akarobjones&offset=250&limit=50"
+      "href": "${context}/api/sdk/platform/v1/permissions?userId=aka123456789&offset=250&limit=50"
     },
     "self": {
-      "href": "${context}/api/sdk/platform/v1/permissions?userId=akarobjones"
+      "href": "${context}/api/sdk/platform/v1/permissions?userId=aka123456789"
     }
   },
   "permissions": [
     {
       "links": {
         "organizations": {
-          "href": "${context}/api/sdk/platform/v1/organizations?permissionId=5001&userId=akarobjones"
+          "href": "${context}/api/sdk/platform/v1/organizations?permissionId=5001&userId=aka123456789"
         },
         "self": {
           "href": "${context}/api/sdk/platform/v1/permissions/5001"
@@ -30,7 +30,7 @@
     {
       "links": {
         "organizations": {
-          "href": "${context}/api/sdk/platform/v1/organizations?permissionId=4014&userId=akarobjones"
+          "href": "${context}/api/sdk/platform/v1/organizations?permissionId=4014&userId=aka123456789"
         },
         "self": {
           "href": "${context}/api/sdk/platform/v1/permissions/4014"
@@ -42,7 +42,7 @@
     {
       "links": {
         "organizations": {
-          "href": "${context}/api/sdk/platform/v1/organizations?permissionId=7000&userId=akarobjones"
+          "href": "${context}/api/sdk/platform/v1/organizations?permissionId=7000&userId=aka123456789"
         },
         "self": {
           "href": "${context}/api/sdk/platform/v1/permissions/7000"
@@ -54,7 +54,7 @@
     {
       "links": {
         "organizations": {
-          "href": "${context}/api/sdk/platform/v1/organizations?permissionId=7153&userId=akarobjones"
+          "href": "${context}/api/sdk/platform/v1/organizations?permissionId=7153&userId=aka123456789"
         },
         "self": {
           "href": "${context}/api/sdk/platform/v1/permissions/7153"
@@ -66,7 +66,7 @@
     {
       "links": {
         "organizations": {
-          "href": "${context}/api/sdk/platform/v1/organizations?permissionId=7100&userId=akarobjones"
+          "href": "${context}/api/sdk/platform/v1/organizations?permissionId=7100&userId=aka123456789"
         },
         "self": {
           "href": "${context}/api/sdk/platform/v1/permissions/7100"
@@ -78,7 +78,7 @@
     {
       "links": {
         "organizations": {
-          "href": "${context}/api/sdk/platform/v1/organizations?permissionId=7032&userId=akarobjones"
+          "href": "${context}/api/sdk/platform/v1/organizations?permissionId=7032&userId=aka123456789"
         },
         "self": {
           "href": "${context}/api/sdk/platform/v1/permissions/7032"
@@ -90,7 +90,7 @@
     {
       "links": {
         "organizations": {
-          "href": "${context}/sdk/platform/v1/organizations?permissionId=472&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=472&userId=aka123456789"
         },
         "self": {
           "href": "${context}/sdk/platform/v1/permissions/472"
@@ -102,7 +102,7 @@
     {
       "links": {
         "organizations": {
-          "href": "${context}/sdk/platform/v1/organizations?permissionId=7183&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=7183&userId=aka123456789"
         },
         "self": {
           "href": "${context}/sdk/platform/v1/permissions/7183"
@@ -114,7 +114,7 @@
     {
       "links": {
         "organizations": {
-          "href": "${context}/sdk/platform/v1/organizations?permissionId=1250&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=1250&userId=aka123456789"
         },
         "self": {
           "href": "${context}/sdk/platform/v1/permissions/1250"
@@ -126,7 +126,7 @@
     {
       "links": {
         "organizations": {
-          "href": "${context}/sdk/platform/v1/organizations?permissionId=7095&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=7095&userId=aka123456789"
         },
         "self": {
           "href": "${context}/sdk/platform/v1/permissions/7095"
@@ -138,7 +138,7 @@
     {
       "links": {
         "organizations": {
-          "href": "${context}/sdk/platform/v1/organizations?permissionId=7050&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=7050&userId=aka123456789"
         },
         "self": {
           "href": "${context}/sdk/platform/v1/permissions/7050"
@@ -150,7 +150,7 @@
     {
       "links": {
         "organizations": {
-          "href": "${context}/sdk/platform/v1/organizations?permissionId=484&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=484&userId=aka123456789"
         },
         "self": {
           "href": "${context}/sdk/platform/v1/permissions/484"
@@ -162,7 +162,7 @@
     {
       "links": {
         "organizations": {
-          "href": "${context}/sdk/platform/v1/organizations?permissionId=7234&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=7234&userId=aka123456789"
         },
         "self": {
           "href": "${context}/sdk/platform/v1/permissions/7234"
@@ -174,7 +174,7 @@
     {
       "links": {
         "organizations": {
-          "href": "${context}/sdk/platform/v1/organizations?permissionId=7035&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=7035&userId=aka123456789"
         },
         "self": {
           "href": "${context}/sdk/platform/v1/permissions/7035"
@@ -186,7 +186,7 @@
     {
       "links": {
         "organizations": {
-          "href": "${context}/sdk/platform/v1/organizations?permissionId=7209&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=7209&userId=aka123456789"
         },
         "self": {
           "href": "${context}/sdk/platform/v1/permissions/7209"
