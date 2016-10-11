@@ -5,16 +5,16 @@
   "limit": 50,
   "links": {
     "next": {
-      "href": "${context}/sdk/platform/v1/regions?userId=akarobjones&offset=50&limit=50"
+      "href": "${context}/sdk/platform/v1/regions?userId=aka123456789&offset=50&limit=50"
     },
     "last": {
-      "href": "${context}/sdk/platform/v1/regions?userId=akarobjones&offset=50&limit=50"
+      "href": "${context}/sdk/platform/v1/regions?userId=aka123456789&offset=50&limit=50"
     },
     "self": {
-      "href": "${context}/sdk/platform/v1/regions?userId=akarobjones"
+      "href": "${context}/sdk/platform/v1/regions?userId=aka123456789"
     },
     "user": {
-      "href": "${context}/sdk/platform/v1/users/akarobjones"
+      "href": "${context}/sdk/platform/v1/users/aka123456789"
     }
   },
   "regions": [
