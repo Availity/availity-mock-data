@@ -90,10 +90,10 @@
     {
       "links": {
         "organizations": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/organizations?permissionId=472&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=472&userId=akarobjones"
         },
         "self": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/permissions/472"
+          "href": "${context}/sdk/platform/v1/permissions/472"
         }
       },
       "id": "472",
@@ -102,10 +102,10 @@
     {
       "links": {
         "organizations": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/organizations?permissionId=7183&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=7183&userId=akarobjones"
         },
         "self": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/permissions/7183"
+          "href": "${context}/sdk/platform/v1/permissions/7183"
         }
       },
       "id": "7183",
@@ -114,10 +114,10 @@
     {
       "links": {
         "organizations": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/organizations?permissionId=1250&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=1250&userId=akarobjones"
         },
         "self": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/permissions/1250"
+          "href": "${context}/sdk/platform/v1/permissions/1250"
         }
       },
       "id": "1250",
@@ -126,10 +126,10 @@
     {
       "links": {
         "organizations": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/organizations?permissionId=7095&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=7095&userId=akarobjones"
         },
         "self": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/permissions/7095"
+          "href": "${context}/sdk/platform/v1/permissions/7095"
         }
       },
       "id": "7095",
@@ -138,10 +138,10 @@
     {
       "links": {
         "organizations": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/organizations?permissionId=7050&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=7050&userId=akarobjones"
         },
         "self": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/permissions/7050"
+          "href": "${context}/sdk/platform/v1/permissions/7050"
         }
       },
       "id": "7050",
@@ -150,10 +150,10 @@
     {
       "links": {
         "organizations": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/organizations?permissionId=484&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=484&userId=akarobjones"
         },
         "self": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/permissions/484"
+          "href": "${context}/sdk/platform/v1/permissions/484"
         }
       },
       "id": "484",
@@ -162,10 +162,10 @@
     {
       "links": {
         "organizations": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/organizations?permissionId=7234&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=7234&userId=akarobjones"
         },
         "self": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/permissions/7234"
+          "href": "${context}/sdk/platform/v1/permissions/7234"
         }
       },
       "id": "7234",
@@ -174,10 +174,10 @@
     {
       "links": {
         "organizations": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/organizations?permissionId=7035&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=7035&userId=akarobjones"
         },
         "self": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/permissions/7035"
+          "href": "${context}/sdk/platform/v1/permissions/7035"
         }
       },
       "id": "7035",
@@ -186,10 +186,10 @@
     {
       "links": {
         "organizations": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/organizations?permissionId=7209&userId=akarobjones"
+          "href": "${context}/sdk/platform/v1/organizations?permissionId=7209&userId=akarobjones"
         },
         "self": {
-          "href": "http:localhost:3000/api/sdk/platform/v1/permissions/7209"
+          "href": "${context}/sdk/platform/v1/permissions/7209"
         }
       },
       "id": "7209",
