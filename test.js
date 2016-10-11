@@ -2,7 +2,7 @@
 const test = require('tape');
 const mocks = require('./');
 
-test('rules', (t) => {
+test('plugin ', (t) => {
 
   t.plan(2);
 
