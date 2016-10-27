@@ -25,6 +25,7 @@ A fake user by the name of Jane Smith is used through the mocks with the followi
 - `/sdk/platform/v1/organizations`
 - `/sdk/platform/v1/permissions`
 - `/sdk/platform/v1/regions`
+- `/v1/internal/providers`
 
 ## Disclaimer
 
