@@ -4,6 +4,17 @@
     "file": "empty.json"
   },
 
+  "internal/v1/providers": {
+    "get": [
+      {
+        "file": "providers.json",
+        "params": {
+          "customerId": "2222"
+        }
+      }
+    ]
+  },
+
   "sdk/platform/v1/users/me": {
     "file": "me.json"
   },
