@@ -12,10 +12,10 @@
   } ],
   "links" : {
     "self" : {
-      "href" : "https://t17-apps.availity.com/api/sdk/platform/v1/regions?currentlySelected=true"
+      "href" : "${context}/sdk/platform/v1/regions?currentlySelected=true"
     },
     "user" : {
-      "href" : "https://t17-apps.availity.com/api/sdk/platform/v1/users/aka123456789"
+      "href" : "${context}/sdk/platform/v1/users/aka123456789"
     }
   },
   "regions" : [ {
