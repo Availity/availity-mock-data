@@ -60,7 +60,7 @@
       {
         "file": "currentRegion.json",
         "params": {
-          "currentlySelected": true
+          "currentlySelected": "true"
         }
       }
     ]
