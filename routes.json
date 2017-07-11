@@ -38,6 +38,10 @@
     ]
   },
 
+  "sdk/platform/v1/organizations/1111": {
+    "file": "organization.json"
+  },
+
   "sdk/platform/v1/organizations": {
     "get": [
       {
