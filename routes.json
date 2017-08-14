@@ -43,6 +43,7 @@
   },
 
   "sdk/platform/v1/organizations": {
+    "file": "organizations.json",
     "get": [
       {
         "file": "organizations.json",
