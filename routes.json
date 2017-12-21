@@ -69,6 +69,9 @@
         }
       }
     ]
-  }
+  },
 
+  "sdk/platform/v1/spaces": {
+    "file": "space.json"
+  }
 }
